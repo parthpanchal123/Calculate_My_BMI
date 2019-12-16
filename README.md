@@ -10,12 +10,12 @@ Flutter FontAwesone Icons Package : <a href="https://pub.dev/packages/font_aweso
     Components Used :
 
 
-   ⋅⋅* Container
-   ⋅⋅* Scaffold
-   ⋅⋅* Slider
-   ⋅⋅* Alert Dialog
-   ⋅⋅* Flat Button
-   ⋅⋅* Navigation Routes
+   * Container
+   * Scaffold
+   * Slider
+   * Alert Dialog
+   * Flat Button
+   * Navigation Routes
 
 
 
